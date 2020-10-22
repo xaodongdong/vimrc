@@ -1,14 +1,15 @@
 ## VIM ลไึรฮฤผþ
 
-### หตร๗
-#### ด๚ย๋ฒึฟโฃ
+### หตร๗:
+#### 1.ด๚ย๋ฒึฟโ
 [git@github.com:xaodongdong/vimrc.git]
-#### สนำรหตร๗
+#### 2.สนำรหตร๗
 ```
-git clone git@github.com:xaodongdong/module.git
-mv vimrc ~/.vimrc
+git clone git@github.com:xaodongdong/vimrc.git
+cp vimrc ~/.vimrc
 ```
-### ะÞธฤผวยผ
+
+### ะÞธฤผวยผ:
 #### 1.ดดฝจฮฤตต
 
 
