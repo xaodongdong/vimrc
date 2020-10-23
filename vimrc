@@ -19,4 +19,5 @@
 "                                                                                                  
 "                                                                                                  
 
-
+" 配置自动识别编码格式（优先级：由左到右）
+set fileencodings=utf-8,gb2312,gb18030,gbk,ucs-bom,cp936,latin1
